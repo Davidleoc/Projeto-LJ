@@ -5,4 +5,5 @@ Principais Funcionalidades:
  - O vendedor pode cadastrar produtos no sistemas,com nome,preço em Reais,descrição e imagem do produto
  - O comprador pode ver os produtos cadastrados e adiciona-los ao carrinho
  - O comprador pode acessar seu carrinho e finalizar a compra
+
 Por fim este projeto é muito relevante pra mim e sigo fazendo alterações nele.
